@@ -1,3 +1,5 @@
+**This issue is fixed from AS dolphin canary 9**
+
 a reproducer of:
 
 * https://issuetracker.google.com/issues/217095205 "Cannot find module with id:" error when project contains pure kotlin multiplatform module.
